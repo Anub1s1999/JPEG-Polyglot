@@ -28,3 +28,4 @@ The example only works on IE, Firefox and Chrome don't execute the javascript.
 
 ## Credits
 I did not come up with this idea. Read [this article](https://portswigger.net/research/bypassing-csp-using-polyglot-jpegs) for more information.
+The Original Repo from where I took is: https://github.com/Wuelle/js_jpeg_polyglot
